@@ -1,6 +1,6 @@
 # 📉 Advanced Market Risk Framework & Hedging Optimizer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](TU_URL_DE_STREAMLIT_AQUI)
+Link de streamlit https://market-risk-framework-alvarez.streamlit.app/
 
 Este framework integral de Riesgo de Mercado permite el análisis, la predicción y la mitigación de riesgos en portafolios globales. Desarrollado con un enfoque cuantitativo, combina econometría clásica, Machine Learning y algoritmos evolutivos para enfrentar escenarios de alta volatilidad y eventos de "Cisne Negro".
 
@@ -43,3 +43,4 @@ Este framework integral de Riesgo de Mercado permite el análisis, la predicció
 ├── outputs.ipynb         # Scripts
 ├── requirements.txt      # Dependencias del proyecto
 └── README.md             # Documentación técnica
+
